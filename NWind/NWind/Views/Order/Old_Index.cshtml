@@ -1,0 +1,16 @@
+﻿@model NWind.Models.RepositoryOrders;
+
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<h3>Display order details for the selected Employee </h3>
+<form asp-asp-controller="Order" method="post" asp-action="Details">
+    <select asp-for="SelectedId" asp-items="Model.OrderSelectView">
+    </select>
+    
+    <button style="background-color:skyblue" type="submit">View details</button>
+</form>

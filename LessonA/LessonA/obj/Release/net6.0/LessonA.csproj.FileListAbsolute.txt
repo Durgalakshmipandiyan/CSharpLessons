@@ -1,0 +1,14 @@
+C:\Users\durgalakshmi.p\source\repos\LessonA\LessonA\bin\Release\net6.0\LessonA.exe
+C:\Users\durgalakshmi.p\source\repos\LessonA\LessonA\bin\Release\net6.0\LessonA.deps.json
+C:\Users\durgalakshmi.p\source\repos\LessonA\LessonA\bin\Release\net6.0\LessonA.runtimeconfig.json
+C:\Users\durgalakshmi.p\source\repos\LessonA\LessonA\bin\Release\net6.0\LessonA.dll
+C:\Users\durgalakshmi.p\source\repos\LessonA\LessonA\bin\Release\net6.0\LessonA.pdb
+C:\Users\durgalakshmi.p\source\repos\LessonA\LessonA\obj\Release\net6.0\LessonA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\durgalakshmi.p\source\repos\LessonA\LessonA\obj\Release\net6.0\LessonA.AssemblyInfoInputs.cache
+C:\Users\durgalakshmi.p\source\repos\LessonA\LessonA\obj\Release\net6.0\LessonA.AssemblyInfo.cs
+C:\Users\durgalakshmi.p\source\repos\LessonA\LessonA\obj\Release\net6.0\LessonA.csproj.CoreCompileInputs.cache
+C:\Users\durgalakshmi.p\source\repos\LessonA\LessonA\obj\Release\net6.0\LessonA.dll
+C:\Users\durgalakshmi.p\source\repos\LessonA\LessonA\obj\Release\net6.0\refint\LessonA.dll
+C:\Users\durgalakshmi.p\source\repos\LessonA\LessonA\obj\Release\net6.0\LessonA.pdb
+C:\Users\durgalakshmi.p\source\repos\LessonA\LessonA\obj\Release\net6.0\LessonA.genruntimeconfig.cache
+C:\Users\durgalakshmi.p\source\repos\LessonA\LessonA\obj\Release\net6.0\ref\LessonA.dll

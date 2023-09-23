@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Firstmvcapp
+build_property.RootNamespace = Firstmvcapp
+build_property.ProjectDir = C:\Users\durgalakshmi.p\source\repos\Firstmvcapp\Firstmvcapp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\durgalakshmi.p\source\repos\Firstmvcapp\Firstmvcapp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Author/AuthorList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXEF1dGhvckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Author/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Author/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Author/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Author/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Author/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Emp/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Emp/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Emp/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Emp/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Emp/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Home/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Home/AddNewAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGROZXdBdXRob3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Home/AddNewBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGROZXdCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Home/DeleteAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVBdXRob3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Home/DoLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEb0xvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Home/EditAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0QXV0aG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Home/ListAllAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0QWxsQXV0aG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Home/ListAllBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0QWxsQm9vay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Home/multiply.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtdWx0aXBseS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Home/SaveNewAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYXZlTmV3QXV0aG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Home/SaveNewBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYXZlTmV3Qm9vay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Home/SayHello.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYXlIZWxsby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Movie/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Movie/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Movie/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Movie/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Movie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durgalakshmi.p/source/repos/Firstmvcapp/Firstmvcapp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-z8d1d9cp36
